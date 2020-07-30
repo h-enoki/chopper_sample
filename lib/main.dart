@@ -60,6 +60,8 @@ class _ChangeFormState extends State<ChangeForm> {
     print('telop: ${forecasts[2].telop}');
     print('date: ${forecasts[2].date}');
 
+    //aaaa
+
 
     setState(() {
       _count++;
